@@ -61,6 +61,4 @@ Please see the [LICENSE](LICENSE) file for full details.
 Developer Advocate <br />
 Autodesk Forge Partner Development
 =======
-![Forge JAVA SDK](https://img.shields.io/badge/Forge%20JAVA%20SDK-1.0.1-orange.svg)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)
->>>>>>> fc4a6e301c3ef59953dd458463c6ba904ccef037
+
