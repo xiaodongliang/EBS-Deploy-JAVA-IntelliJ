@@ -60,5 +60,4 @@ Please see the [LICENSE](LICENSE) file for full details.
 [Xiaodong Liang](https://twitter.com/coldwood) <br />
 Developer Advocate <br />
 Autodesk Forge Partner Development
-=======
 
